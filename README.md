@@ -1,11 +1,11 @@
 # 360-cockpit
 # 📊 Olist Brazilian E-Commerce Analytics Portfolio
 
-![Dashboard Overview](assets/dashboard_preview.png)
+![Dashboard Overview](https://lnkd.in/p/dxs5QCxA)
 
 ## 🔗 Live Interactive Links & Downloads
 - 🌐
-- 💾 **Download Full .PBIT File:** [Download ]((https://github.com/umarkhalid93/ecommerce-financial-analytics-pipeline/blob/main/360cock_pit.pbit))
+- 💾 **Download Full .PBIT File:** [Download ](https://github.com/umarkhalid93/ecommerce-financial-analytics-pipeline/blob/main/360cock_pit.pbit)
 
 ---
 
