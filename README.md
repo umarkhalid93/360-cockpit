@@ -4,8 +4,8 @@
 ![Dashboard Overview](assets/dashboard_preview.png)
 
 ## 🔗 Live Interactive Links & Downloads
-- 🌐 **Interactive Power BI Service Link:** [View Live Dashboard](YOUR_POWER_BI_PUBLISH_TO_WEB_LINK_HERE)
-- 💾 **Download Full .PBIX File:** [Download via Google Drive / OneDrive](YOUR_CLOUD_STORAGE_LINK_HERE)
+- 🌐
+- 💾 **Download Full .PBIT File:** [Download ]((https://github.com/umarkhalid93/ecommerce-financial-analytics-pipeline/blob/main/360cock_pit.pbit))
 
 ---
 
